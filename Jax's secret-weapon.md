@@ -1,4 +1,4 @@
-###JIT compilation converts your Python functions into super-fast machine code - slow on the first compilation, but blazingly fast afterwards! This is JAX's secret weapon for being so much faster than PyTorch!
+JIT compilation converts your Python functions into super-fast machine code - slow on the first compilation, but blazingly fast afterwards! This is JAX's secret weapon for being so much faster than PyTorch!
 Pytorch
 ```
 def add_numbers(a, b):
